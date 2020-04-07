@@ -20,6 +20,10 @@ There could be multiple reasons:
 
 ### How to Build
 
+#### Pre-requisite
+
+Before starting you need to have installe nodejs in your distro.
+
 ```
 chmod +x build.sh
 ./build.sh
