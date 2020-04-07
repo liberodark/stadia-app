@@ -5,7 +5,7 @@
 # Thanks : eethe0
 # License: GNU GPLv3
 
-version="0.0.1"
+version="0.0.2"
 
 echo "Welcome on Stadia App Script $version"
 
@@ -21,14 +21,7 @@ dist="linux"
 electron="8.2.1"
 chrome="80.0.3987.132"
 
-# Check OS & nativefier
-
- if ! command -v nativefier > /dev/null 2>&1; then
-  echo "Install nativefier ($distribution)"
-  npm install nativefier -g
- fi
-
-nativefier -e "$electron" -p "$dist" -a "$arch" -n "$name" \
+npx nativefier -e "$electron" -p "$dist" -a "$arch" -n "$name" \
            --ignore-gpu-blacklist \
            --single-instance \
            -u "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/$chrome Safari/537.36" \
