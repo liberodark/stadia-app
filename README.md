@@ -1,5 +1,8 @@
 # Stadia App
 
+This is unofficial Portable Stadia Application.
+
+[![https://cdn.worldvectorlogo.com/logos/google-stadia-1.svg](https://cdn.worldvectorlogo.com/logos/google-stadia-1.svg)](https://cdn.worldvectorlogo.com/logos/google-stadia-1.svg)
 
 ### Introduction
 
@@ -21,6 +24,35 @@ There could be multiple reasons:
 chmod +x build.sh
 ./build.sh
 ```
+
+### How to use :
+
+#### Just download :
+
+- Stadia App 0.0.1 [Download](https://github.com/liberodark/stadia-app/releases/download/0.0.1/Stadia-win32-x64.zip) : For Windows
+- Stadia App 0.0.1 [Download](https://github.com/liberodark/stadia-app/releases/download/0.0.1/Stadia-darwin-x64.zip) : For Mac
+- Stadia App 0.0.1 [Download](https://github.com/liberodark/stadia-app/releases/download/0.0.1/Stadia-x86_64.AppImage) : For Linux
+
+#### Extract :
+
+Right click extract here or
+
+```
+tar -xvf Stadia-linux-x64.tar.gz
+```
+
+#### Run :
+
+- For Linux `chmod +x Stadia` & `./Stadia` or
+- For Linux `chmod +x Stadia-x86_64.AppImage` & `./Stadia-x86_64.AppImage`
+
+## Compatibility :
+
+Windows 7 / 10
+Mac
+Linux
+Raspberry Pi
+
 
 ### Links
 
