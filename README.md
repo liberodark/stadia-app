@@ -48,14 +48,10 @@ tar -xvf Stadia-linux-x64.tar.gz
 
 ## Compatibility :
 
-Windows 7 / 10
-
-Mac
-
-Linux
-
-Raspberry Pi
-
+- Windows 7 / 10
+- Mac
+- Linux
+- Raspberry Pi
 
 ### Links
 
