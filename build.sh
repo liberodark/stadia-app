@@ -2,7 +2,7 @@
 #
 # About: Build Stadia App automatically
 # Author: liberodark
-# Thanks : 
+# Thanks : eethe0
 # License: GNU GPLv3
 
 version="0.0.1"
@@ -28,7 +28,6 @@ chrome="80.0.3987.132"
   npm install nativefier -g
  fi
 
-# Fix ? app.allowRendererProcessReuse = true
 nativefier -e "$electron" -p "$dist" -a "$arch" -n "$name" \
            --ignore-gpu-blacklist \
            --single-instance \
