@@ -17,7 +17,7 @@ distribution=$(cat /etc/*release | grep "PRETTY_NAME" | sed 's/PRETTY_NAME=//g' 
 
 name="Stadia"
 arch="x64"
-dist="mac"
+dist="linux"
 electron="8.2.1"
 chrome="80.0.3987.132"
 
