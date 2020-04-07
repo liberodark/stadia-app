@@ -2,7 +2,7 @@
 
 This is unofficial Portable Stadia Application.
 
-[![https://cdn.worldvectorlogo.com/logos/google-stadia-1.svg](https://cdn.worldvectorlogo.com/logos/google-stadia-1.svg)](https://cdn.worldvectorlogo.com/logos/google-stadia-1.svg)
+[![https://raw.githubusercontent.com/liberodark/stadia-app/master/src/stadia.ico](https://raw.githubusercontent.com/liberodark/stadia-app/master/src/stadia.ico)](https://raw.githubusercontent.com/liberodark/stadia-app/master/src/stadia.ico)
 
 ### Introduction
 
