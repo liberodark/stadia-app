@@ -17,4 +17,7 @@ There could be multiple reasons:
 
 ### How to Build
 
-later
+```
+chmod +x build.sh
+./build.sh
+```
