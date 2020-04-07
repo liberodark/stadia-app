@@ -24,6 +24,6 @@ chmod +x build.sh
 
 ### Links
 
-Discord : https://discordapp.com/invite/wuYueyK
-Reddit : https://www.reddit.com/r/Stadia/comments/fwjke8/stadia_app_unofficial_app/
-Youtube : https://www.youtube.com/watch?v=0GDFPH0ro-o
+- Discord : https://discordapp.com/invite/wuYueyK
+- Reddit : https://www.reddit.com/r/Stadia/comments/fwjke8/stadia_app_unofficial_app/
+- Youtube : https://www.youtube.com/watch?v=0GDFPH0ro-o
