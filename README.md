@@ -10,8 +10,8 @@ This is a little script eases the task of creating an electron package for the G
 
 ### Login Issue ?
 
-Need to make a tweak for login one time google block the electron apps.
-Solution : https://github.com/liberodark/stadia-app/issues/2
+- Need to make a tweak for login one time google block the electron apps.
+- Solution : https://github.com/liberodark/stadia-app/issues/2
 
 ### Why should I run Stadia from an Electron app?
 
