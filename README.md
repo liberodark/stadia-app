@@ -22,7 +22,7 @@ There could be multiple reasons:
 
 #### Pre-requisite
 
-Before starting you need to have installe nodejs in your distro.
+Before starting you need to have install nodejs in your distro.
 
 ```
 chmod +x build.sh
