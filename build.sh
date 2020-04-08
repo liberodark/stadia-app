@@ -17,7 +17,7 @@ name="Stadia"
 arch="x64"
 dist="linux"
 electron="8.2.1"
-chrome="80.0.3987.132"
+chrome="80.0.3987.163"
 
 npx nativefier -e "$electron" -p "$dist" -a "$arch" -n "$name" \
            --ignore-gpu-blacklist \
