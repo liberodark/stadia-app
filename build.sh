@@ -13,8 +13,6 @@ echo "Welcome on Stadia App Script $version"
 # RETRIEVE ARGUMENTS FROM THE MANIFEST AND VAR
 #=================================================
 
-distribution=$(cat /etc/*release | grep "PRETTY_NAME" | sed 's/PRETTY_NAME=//g' | sed 's/["]//g' | awk '{print $1}')
-
 name="Stadia"
 arch="x64"
 dist="linux"
