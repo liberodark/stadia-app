@@ -8,6 +8,11 @@ This is unofficial Portable Stadia Application.
 
 This is a little script eases the task of creating an electron package for the Google Stadia web app. It uses Nativefier as packager and creates an Electron application that you can use to play Google Stadia on your machine.
 
+## Login Issue ?
+
+Need to make a tweak for login one time google block the electron apps.
+Solution : https://github.com/liberodark/stadia-app/issues/2
+
 ### Why should I run Stadia from an Electron app?
 
 There could be multiple reasons:
