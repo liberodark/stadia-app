@@ -16,8 +16,8 @@ echo "Welcome on Stadia App Script $version"
 name="Stadia"
 arch="x64"
 dist="linux"
-electron="9.0.0"
-chrome="81.0.4044.138"
+electron="11.0.1"
+chrome="86.0.4240.111"
 
 npx nativefier -e "$electron" -p "$dist" -a "$arch" -n "$name" \
                --ignore-gpu-blacklist \
